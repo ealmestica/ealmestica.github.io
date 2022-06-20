@@ -1,5 +1,13 @@
 # Elijah Almestica ePortfolio
 
+## Table of contents
+* [Professional Self-Assessment](#professional-self-assessment)
+* [Purpose](#purpose)
+* [Software Design and Engineering](#software-design-and-engineering)
+* [Algorithms and Data Structure](#algorithms-and-data-structure)
+* [Database](#database)
+* [Code Review Video](#code-review-video)
+
 ## Professional Self-Assessment
 
 The skill set I have gained throughout the computer science program at SNHU has been critical for advancing my future career and thinking more like a computer scientist when it comes to solving problems. It has given me a sense of direction in what career I would like to pursue. In today's age, there is a world full of complex issues waiting to be solved. This is especially true as one considers the rapid pace of technology. One of the most important skills I learned in my previous courses was collaborating with other peers using Bit Bucket for versioning control. Working together, we developed a Jukebox and calculator app. Version control tools support team communication during software development by allowing team members to add comments as changes are made, and bugs are fixed, communicating to other members what has changed and the purpose. In addition, it allows members to identify who has made specific changes in case follow-up is necessary.
@@ -18,6 +26,7 @@ Data structures are a vital aspect of a program for storing, retrieving, and org
 
 In a previous class, I used an open-source RDBMS called MySQL to create a database from scratch and a table where I populated the fields and defined them with the appropriate data types within the table. I also learned the CRUD operations, adding different constraints, multi-line statements, auto increment, and much more. Then in a later class, I learned about a different type of database called MongoDB, a non-relational database that uses a NoSQL design to store its data. As part of the MEAN stack for the backend, we used the MongoDB database due to its ease of modifying schema based on scaling and functionality changes, as well as the ability to rapidly scale horizontally because of the non-relational nature of the database.
 
+## Purpose
 The artifact that I am submitting is the Zoo Authentication System. This project was completed during the course IT145 Foundation in Application Development. During the course, the project's purpose was to develop an authentication system that will only allow access when an employee inputs the appropriate credentials. Further, the authentication system was expected to allow each employee to access only data necessary for their roles. This system will also enable the user to log off when the work has been completed. Initially, this program had a non-graphical interface. For the final project, I have enhanced the program by adding a graphical interface with buttons and other features that would make it more appealing, added a database to store the credentials, and improved the security of the authentication system program.
 
 ## Software Design and Engineering
